@@ -7,6 +7,9 @@
 
 Для того, щоб використати конфігурацію, скопіюйте `.vscode` до кореневого каталогу свого проєкту.
 
+Також можна налаштувати конфігурацію, використовуючи скрипти пакетного менеджера NPM, як це зробити
+можна переглянути [ось тут](https://github.com/dkostmii/mavka-npm-setup).
+
 ## Запуск завдання за замовчуванням (Default Task)
 
 1. Натисніть `Ctrl+Shift+P` (Windows) або `Command (⌘)+Shift+P` (MacOS)
@@ -33,3 +36,5 @@
 ```bash
 npm i -g mavka
 ```
+
+Для підсвітки синтаксису та підказок, встановіть розширення [Мавка](https://marketplace.visualstudio.com/items?itemName=mavka.mavka-vscode) для VS Code.
