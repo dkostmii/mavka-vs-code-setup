@@ -37,4 +37,7 @@
 npm i -g mavka
 ```
 
+Також можна використовувати скрипти пакетного менеджера NPM, аби встановити
+Мавку лише у проєкті, як це зробити можна переглянути [ось тут](https://github.com/dkostmii/mavka-npm-setup).
+
 Для підсвітки синтаксису та підказок, встановіть розширення [Мавка](https://marketplace.visualstudio.com/items?itemName=mavka.mavka-vscode) для VS Code.
